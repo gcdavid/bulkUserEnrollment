@@ -1,6 +1,6 @@
-Version: 1.1 
+**Version: 1.1 
 Author: David G C
-Date: February 16, 2026
+Date: February 16, 2026**
 Purpose: This document provides a standardized procedure for automating bulk user provisioning in an on-premises Active Directory (AD) environment using PowerShell from a CSV file. It ensures efficiency, reduces errors, and aligns with security best practices for enterprise onboarding. Tested in a VirtualBox lab with Windows Server 2022 DC and Windows 11 workstation.
 
 Scope
